@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="RegressionSuite">
+    <suite-files>
+        <suite-file path="./../pageXml/loginPage.xml"/>
+        <suite-file path="./../pageXml/signUpPage.xml"/>
+    </suite-files>
+</suite>
