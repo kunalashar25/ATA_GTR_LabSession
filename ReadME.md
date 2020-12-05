@@ -11,14 +11,8 @@ Steps to be Completed before the Lab Session:
 After Step #4, you should be able to see below output in your console window
 ```
 forgot password
-
-
 forgot username
-
-
 login to application
-
-
 ===============================================
 LoginPage
 Total tests run: 3, Failures: 0, Skips: 0
