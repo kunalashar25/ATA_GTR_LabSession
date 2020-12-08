@@ -23,3 +23,4 @@ If you were able to complete all the above steps then you are all set for the la
 
 Please note that we'll be working with Excel in this session. So please make sure you have installed Microsoft Excel in your system or we can use Google Spreadsheet and download it is `.xlsx`
 
+Also, To attend this lab session, one must have a good knowledge on Java and TestNG to implement this concept. If you're not familiar with Java and TestNG concept then too it is fine, You can understand the problem statement and ways to tackle the problem.
