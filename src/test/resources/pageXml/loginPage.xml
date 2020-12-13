@@ -8,4 +8,16 @@
             </class>
         </classes>
     </test>
+    <test name="LoginTests">
+        <classes>
+            <class name="com.gtr.externalize.testcases.LoginPageTestCase">
+            </class>
+        </classes>
+    </test>
+    <test name="LoginTests">
+        <classes>
+            <class name="com.gtr.externalize.testcases.LoginPageTestCase">
+            </class>
+        </classes>
+    </test>
 </suite>
